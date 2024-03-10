@@ -1,11 +1,9 @@
 # Preguntas
 
 ## a)¿Cuántos procesos únicos son creados?
-    <br>
     Se crean 3 procesos únicos en total.
 
 ## b)¿Cuántos hilos únicos son creados?
-    <br>
     Se crea 1 hilo único en el proceso hijo.
 
 # Código fuente
